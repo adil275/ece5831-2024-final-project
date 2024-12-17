@@ -10,7 +10,7 @@
 4. [Dataset](#dataset)  
 5. [Speech-to-Text Conversion](#speech-to-text-conversion)  
 6. [Personalized Image Generation](#personalized-image-generation)  
-7. [Model Architectures](#model-architectures)  
+7. [Model Specifications](#model_specifications)  
     - [Stable Diffusion Architecture](#stable-diffusion-architecture)  
     - [Fine-Tuning with DreamBooth](#fine-tuning-with-dreambooth)  
 8. [Training Strategy](#training-strategy)  
@@ -55,7 +55,7 @@ Using Stable Diffusion v2, we fine-tuned the model with DreamBooth to generate p
 
 ---
 
-## Model Architectures  
+## Model Specifications  
 
 ### Stable Diffusion Architecture  
 Stable Diffusion uses a latent diffusion process to generate images from text prompts. Its components include:  
