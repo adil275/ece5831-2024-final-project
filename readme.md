@@ -106,6 +106,22 @@ The performance was evaluated using metrics like relevance, visual fidelity, and
 
 ---
 
+## How to Run  
+To run the `final_project.ipynb` file for inference in Google Colab:
+
+1. **Mount Google Drive**:  
+   Open the notebook and run the Drive mounting cell.  
+   ```python
+   from google.colab import drive
+   drive.mount('/content/drive')
+   ```
+2. **Specify the Model Path**:
+    Provide the path to the "Model Files" folder inside your ece5831-2024-final-project directory.
+    You can create a shortcut to the shared (ece5831-2024-final-project) folder in your own Google Drive for easier access.
+
+3. **Run All cells of `final_project.ipynb`**
+    Ensure the Colab session is connected to a free GPU runtime.
+    Check runtime type under Runtime > Change runtime type and select GPU.
 ## Project Attachments  
 •⁠  ⁠*Presentation Link*: https://youtu.be/4edAK2OjUu4
 •⁠  ⁠*Project Demo Link*: https://youtu.be/gDksvHqDzNs
