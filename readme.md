@@ -5,21 +5,20 @@
 ## Table of Contents
 
 1. [Motivation](#motivation)  
-2. [Project Objectives](#project-objectives)  
-3. [Significance](#significance)  
-4. [Key Features](#key-features)  
-5. [Dataset](#dataset)  
-6. [Speech-to-Text Conversion](#speech-to-text-conversion)  
-7. [Personalized Image Generation](#personalized-image-generation)  
-8. [Model Architectures](#model-architectures)  
+2. [Project Objectives](#project-objectives)   
+3. [Key Features](#key-features)  
+4. [Dataset](#dataset)  
+5. [Speech-to-Text Conversion](#speech-to-text-conversion)  
+6. [Personalized Image Generation](#personalized-image-generation)  
+7. [Model Architectures](#model-architectures)  
     - [Stable Diffusion Architecture](#stable-diffusion-architecture)  
     - [Fine-Tuning with DreamBooth](#fine-tuning-with-dreambooth)  
-9. [Training Strategy](#training-strategy)  
-10. [Performance Metrics](#performance-metrics)  
-11. [Technologies Used](#technologies-used)  
-12. [Contributors](#contributors)  
-13. [Future Work](#future-work)  
-14. [Project Attachments](#project-attachments)  
+8. [Training Strategy](#training-strategy)  
+9. [Technologies Used](#technologies-used)  
+10. [Contributors](#contributors)  
+11. [Future Work](#future-work)  
+12. [How to Run](#how-to-run)
+13. [Project Attachments](#project-attachments)  
 
 ---
 
@@ -31,11 +30,6 @@ With the growing demand for personalized content, this project bridges audio and
 - Develop a system that generates high-quality personalized images from speech inputs.  
 - Seamlessly combine speech-to-text conversion and fine-tuned image generation models.  
 - Optimize training efficiency and ensure high output quality.
-
----
-
-## Significance  
-The project advances multimodal AI by integrating speech recognition and image generation. It demonstrates how personalized models can enhance accessibility, creativity, and automation. This approach sets the groundwork for AI-driven tools in multiple industries.
 
 ---
 
@@ -76,11 +70,6 @@ DreamBooth enables efficient fine-tuning for personalized image generation. Key 
 
 ## Training Strategy  
 The model was fine-tuned with optimized configurations such as a low learning rate (1e-6), small batch sizes, and prior preservation techniques. Training involved iterative evaluations to monitor quality and ensure computational efficiency.
-
----
-
-## Performance Metrics  
-The performance was evaluated using metrics like relevance, visual fidelity, and quality of the generated images. Sample prompts were tested to validate the model’s ability to produce personalized results.
 
 ---
 
