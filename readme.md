@@ -107,7 +107,7 @@ The performance was evaluated using metrics like relevance, visual fidelity, and
 ---
 
 ## Project Attachments  
-•⁠  ⁠*Presentation Link*: 
+•⁠  ⁠*Presentation Link*: https://youtu.be/4edAK2OjUu4
 •⁠  ⁠*Project Demo Link*: https://youtu.be/gDksvHqDzNs
 •⁠  ⁠*Dataset Link*: https://drive.google.com/drive/folders/1DiNI8N2tjSfx6K9MFgu5IdIZVHb2Bi3Y?usp=sharing
 •⁠  ⁠*Project Documents Link*: https://drive.google.com/drive/folders/1MUaLMb42silAoXdXlj5suvDwAEghulr5 
