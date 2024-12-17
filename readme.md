@@ -24,8 +24,7 @@
 ---
 
 ## Motivation  
-With the growing demand for personalized content, this project bridges audio and visual modalities by generating images from speech. It has real-world applications in accessibility, content creation, and immersive environments like AR/VR. This innovation benefits visually impaired individuals and enhances creative workflows.
-
+With the growing demand for personalized content, this project bridges audio and visual modalities by generating images from speech. It has real-world applications in accessibility, content creation, and immersive environments like AR/VR. 
 ---
 
 ## Project Objectives  
@@ -94,7 +93,7 @@ The performance was evaluated using metrics like relevance, visual fidelity, and
 ---
 
 ## Contributors  
-- *Adil Qureshi*: Fine-tuning Stable Diffusion and model evaluation  
+- *Adil Qureshi*: Fine-tuning Stable Diffusion and model training
 - *Shubham Jagtap*: Speech-to-text integration and testing
 - *Jaskirat Sudan*: Dataset creation and image generation analysis  
 
